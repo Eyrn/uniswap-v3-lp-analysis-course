@@ -1,0 +1,22 @@
+[
+  {
+    "position_id": 1001,
+    "pool_address": "0x8ad599c3A0ff1De082011EFDDc58f1908eb6e6D8",
+    "lower_tick": 1800,
+    "upper_tick": 2200,
+    "liquidity": 100000,
+    "token0_amount": 1.5,
+    "token1_amount": 3200.0,
+    "fees_accrued_usd": 142.8
+  },
+  {
+    "position_id": 1002,
+    "pool_address": "0x8ad599c3A0ff1De082011EFDDc58f1908eb6e6D8",
+    "lower_tick": 2000,
+    "upper_tick": 2500,
+    "liquidity": 95000,
+    "token0_amount": 1.2,
+    "token1_amount": 3000.0,
+    "fees_accrued_usd": 118.3
+  }
+]

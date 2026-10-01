@@ -1,0 +1,11 @@
+{
+  "address": "0x8ad599c3A0ff1De082011EFDDc58f1908eb6e6D8",
+  "token0": "WETH",
+  "token1": "USDC",
+  "fee": 0.3,
+  "sqrtPriceX96": "0x...",
+  "tick": 196100,
+  "liquidity": 5032000000000000,
+  "tvl_usd": 1200000000,
+  "volume_24h_usd": 500000000
+}

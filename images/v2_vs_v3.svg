@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400" role="img" aria-label="Uniswap V3 vs V2 schematic">
+  <rect width="800" height="400" fill="#0b1020"/>
+  <text x="40" y="50" fill="#e5e7eb" font-size="28" font-family="Arial">Uniswap V2 vs V3</text>
+
+  <rect x="70" y="120" width="250" height="160" rx="12" fill="#1f2937" stroke="#60a5fa"/>
+  <text x="110" y="160" fill="#f8fafc" font-size="24" font-family="Arial">V2</text>
+  <text x="95" y="200" fill="#cbd5e1" font-size="18" font-family="Arial">全价格范围</text>
+  <text x="90" y="230" fill="#cbd5e1" font-size="18" font-family="Arial">单一池子</text>
+  <text x="90" y="260" fill="#cbd5e1" font-size="18" font-family="Arial">价格敏感性较高</text>
+
+  <rect x="440" y="120" width="250" height="160" rx="12" fill="#1f2937" stroke="#34d399"/>
+  <text x="500" y="160" fill="#f8fafc" font-size="24" font-family="Arial">V3</text>
+  <text x="470" y="200" fill="#cbd5e1" font-size="18" font-family="Arial">价格区间化</text>
+  <text x="472" y="230" fill="#cbd5e1" font-size="18" font-family="Arial">资本效率更高</text>
+  <text x="470" y="260" fill="#cbd5e1" font-size="18" font-family="Arial">灵活管理风险</text>
+
+  <line x1="320" y1="200" x2="440" y2="200" stroke="#94a3b8" stroke-width="3"/>
+  <text x="359" y="185" fill="#94a3b8" font-size="16" font-family="Arial">创新</text>
+</svg>
